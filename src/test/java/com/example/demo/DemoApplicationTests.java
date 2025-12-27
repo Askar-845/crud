@@ -2,7 +2,7 @@ package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-
+// Project opened successfully in VS Code
 @SpringBootTest
 class DemoApplicationTests {
 
